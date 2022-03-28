@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+}
+#video{
+    margin: 30px;
+    border-width: 12px;
+    border-style: solid;
+}
+ul{
+    font-size: 23px;
+}
+#brand{
+    font-size: 27px;
+}
+li:hover{
+    text-decoration: underline;
+}
+.clMainDiv{
+    border: 1px solid lightgray ;
+}
+.clMainDiv img{
+    width: 100%;
+}
+.clMainDiv h5 , .clMainDiv p{
+    margin: 20px;
+}
